@@ -52,8 +52,6 @@ I have been worked with startups from different industries including FinTech, Mu
  ### Tools
   [![HTml](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://twitter.com/thedaviddias)
   [![HTml](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://twitter.com/thedaviddias)
-  [![HTml](https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow)](https://twitter.com/thedaviddias)
-  [![HTml](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)](https://twitter.com/thedaviddias)
   
  ### CMS's
 

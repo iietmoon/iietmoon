@@ -45,8 +45,21 @@ I have been worked with startups from different industries including FinTech, Mu
   [![HTml](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://twitter.com/thedaviddias)
   [![HTml](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B)](https://twitter.com/thedaviddias)
   [![HTml](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://twitter.com/thedaviddias)
-  [![HTml](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://twitter.com/thedaviddias)  
+  [![HTml](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://twitter.com/thedaviddias)
   [![HTml](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://twitter.com/thedaviddias)
   [![HTml](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)](https://twitter.com/thedaviddias)
+ 
+ ### Tools
+  [![HTml](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://twitter.com/thedaviddias)
+  [![HTml](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://twitter.com/thedaviddias)
+  [![HTml](https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow)](https://twitter.com/thedaviddias)
+  [![HTml](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)](https://twitter.com/thedaviddias)
+  
+ ### CMS's
+
+  [![HTml](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://twitter.com/thedaviddias)
+  [![HTml](https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white)](https://twitter.com/thedaviddias)
+  [![HTml](https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow)](https://twitter.com/thedaviddias)
+  [![HTml](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)](https://twitter.com/thedaviddias)
   
   

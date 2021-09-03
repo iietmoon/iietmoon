@@ -61,3 +61,5 @@ I have been worked with startups from different industries including FinTech, Mu
   [![HTml](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)](#)
   
   
+  ![Federico Dondi's github stats](https://github-readme-stats.vercel.app/api?username=iietmoon&show_icons=true&hide_border=true)
+  

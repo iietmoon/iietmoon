@@ -23,6 +23,7 @@ I have been worked with startups from different industries including FinTech, Mu
   [![HTml](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
   [![HTml](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](#)
   [![HTml](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)
+  [![HTml](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)](#)
   [![HTml](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](#)
   [![HTml](https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)](#)
   [![HTml](https://img.shields.io/badge/ember.js-E04E39?style=for-the-badge&logo=emberdotjs&logoColor=white)](#)
@@ -37,6 +38,11 @@ I have been worked with startups from different industries including FinTech, Mu
   [![HTml](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)](#)
   [![HTml](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)](#)
   [![HTml](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](#)
+  
+### Mobile Frameworks
+
+  [![HTml](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
+  [![HTml](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)](#)
 
 
 ### Databases
@@ -60,6 +66,9 @@ I have been worked with startups from different industries including FinTech, Mu
   [![HTml](https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow)](#)
   [![HTml](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)](#)
   
+  ## More about me 
   
   ![Federico Dondi's github stats](https://github-readme-stats.vercel.app/api?username=iietmoon&show_icons=true&hide_border=true)
+  
+  
   

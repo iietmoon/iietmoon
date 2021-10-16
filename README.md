@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Othmane! 🇲🇦
 
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iietmoon/?hl=en)
+[![linkedin](https://img.shields.io/badge/Linkedin-2867B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iietmoon/)
 
 
 I'm a full-stack developer. I consider myself a good honest hard working person. I have a strong work ethic because I like to provide a secure and exciting future for my future family and me. I am a very optimistic person and I like to have fun and be happy.

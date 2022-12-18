@@ -1,13 +1,11 @@
-# Hi there 👋, I'm Othmane! 🇲🇦
+# Hello world👋, I'm Othmane! 🇲🇦
 
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iietmoon/?hl=en)
 [![linkedin](https://img.shields.io/badge/Linkedin-2867B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iietmoon/)
 [![Portfolio ](https://img.shields.io/badge/My%20portfolio-FFF?style=for-the-badge&logo=website&logoColor=black)](https://iietmoon.me/)
 
 
-I'm a full-stack developer. I consider myself a good honest hard working person. I have a strong work ethic because I like to provide a secure and exciting future for my future family and me. I am a very optimistic person and I like to have fun and be happy.
-
-I have been worked with startups from different industries including FinTech, Music streaming, Online Order Processing, E-commerce, etc.
+Hi, I'm Othmane! a full-stack developer, I have been worked with startups from different industries including FinTech, Music streaming, Online Order Processing, E-commerce, etc.
 
 
 ## I am skilled in the following technologies/frameworks:
@@ -68,9 +66,7 @@ I have been worked with startups from different industries including FinTech, Mu
   [![HTml](https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow)](#)
   [![HTml](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)](#)
   
-  ## More about me 
+  ## Visit my award-winner portfolio
   
-  ![Federico Dondi's github stats](https://github-readme-stats.vercel.app/api?username=iietmoon&show_icons=true&hide_border=true)
-  
-  
+  https://iietmoon.me
   

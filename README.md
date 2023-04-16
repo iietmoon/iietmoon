@@ -1,4 +1,4 @@
-# Hello world👋, I'm Othmane! 🇲🇦
+# Hello world, I'm Othmane! 👋
 
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iietmoon/?hl=en)
 [![linkedin](https://img.shields.io/badge/Linkedin-2867B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iietmoon/)

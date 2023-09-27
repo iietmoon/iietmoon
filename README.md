@@ -1,4 +1,4 @@
-[# Hello world! I'm Othmane! 👋
+# Hello world! I'm Othmane! 👋
 <p>Welcome to my page! </br> I'm Othmane N., A Senior Fullstack developer from <img src="https://static.vecteezy.com/system/resources/previews/011/571/500/non_2x/circle-flag-of-morocco-free-png.png" width="13"/> <b>Casablanca, Morocco</b>.</p>
 <h3>Working with</h3>
 <p>
@@ -15,4 +15,3 @@
   <img alt="Vuetify" src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF" />
   <img alt="Nuxt.js" src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82" />
 </p>
-](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black

@@ -13,12 +13,11 @@
 I'm Othmane N., A Senior Fullstack developer from <img src="https://static.vecteezy.com/system/resources/previews/011/571/500/non_2x/circle-flag-of-morocco-free-png.png" width="13"/> <b>Casablanca, Morocco</b>, I take great pride in crafting exceptional digital experiences and have had the opportunity to work on a variety of exciting projects throughout my career..
 
 ## 💡 Expertise:
-- **Programming Languages**: JavaScript (ES6+), PHP (Laravel, Core PHP), TypeScript, SQL (MySQL)
-- **Frontend Development**: React, Vue.js, Vuex, JavaScript, jQuery, AJAX, HTML & HTML5, CSS & SCSS, Bootstrap 3/4
+- **Programming Languages**: JavaScript (ES6+), PHP (Laravel, Core PHP), TypeScript, SQL, NoSQL
+- **Frontend Development**: React, Vue.js, Vuex, JavaScript, jQuery, AJAX, HTML & HTML5, CSS & SCSS, Bootstrap 3/4/5, Next.js, Nuxt.js, React Native
 - **Backend Development**: Node.js, Express.js, REST API, Laravel, Core PHP, MySQL
 - **Testing Tools**: Jest (for testing React applications), Vue Test Utils (for testing Vue.js applications), Mocha (for Node.js backend testing), Chai (for Node.js backend testing)
 - **DevOps and Microservices**: Docker, Docker Compose, Building microservices with Node.js, RabbitMQ
-- **Frontend Frameworks**: Next.js, Nuxt.js, React Native
 
 🚀 If you're looking for a dedicated professional to collaborate with on your next venture, feel free to reach out. Let's discuss your project and turn your vision into reality!
 
@@ -26,7 +25,7 @@ I'm Othmane N., A Senior Fullstack developer from <img src="https://static.vecte
 ## 📫 Get in Touch
 
 - Portfolio: [www.iietmoon.me](https://iietmoon.me)
-- LinkedIn: [@Othmane N.](https://www.linkedin.com/in/iietmoon/)
+- LinkedIn: [Othmane N.](https://www.linkedin.com/in/iietmoon/)
 - Email: [hello@iietmoon.me](mailto:otmannj56@gmail.com)
 
 <!-- Projects -->

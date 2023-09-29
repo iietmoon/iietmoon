@@ -4,17 +4,15 @@
   <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Vue.js%20%7C%20TypeScript-blue" alt="Frontend" />
   <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Laravel%20%7C%20PHP-green" alt="Backend" />
   <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20Microservices%20%7C%20RabbitMQ-purple" alt="DevOps" />
-  <img src="https://img.shields.io/badge/Testing-Jest%20%7C%20Mocha%20%7C%20Chai-yellow" alt="Testing" />
+  <img src="https://img.shields.io/badge/Testing-Jest%20%7C%20Cypress%20%7C%20UX-yellow" alt="Testing" />
 </p>
 
 <!-- About Me -->
 ## 🌟 About Me
 
-👋 I'm Othmane N., A Senior Fullstack developer from <img src="https://static.vecteezy.com/system/resources/previews/011/571/500/non_2x/circle-flag-of-morocco-free-png.png" width="13"/> <b>Casablanca, Morocco</b>.
+I'm Othmane N., A Senior Fullstack developer from <img src="https://static.vecteezy.com/system/resources/previews/011/571/500/non_2x/circle-flag-of-morocco-free-png.png" width="13"/> <b>Casablanca, Morocco</b>, I take great pride in crafting exceptional digital experiences and have had the opportunity to work on a variety of exciting projects throughout my career..
 
-I take great pride in crafting exceptional digital experiences and have had the opportunity to work on a variety of exciting projects throughout my career.
-
-💡 Expertise:
+## 💡 Expertise:
 - **Programming Languages**: JavaScript (ES6+), PHP (Laravel, Core PHP), TypeScript, SQL (MySQL)
 - **Frontend Development**: React, Vue.js, Vuex, JavaScript, jQuery, AJAX, HTML & HTML5, CSS & SCSS, Bootstrap 3/4
 - **Backend Development**: Node.js, Express.js, REST API, Laravel, Core PHP, MySQL
@@ -27,24 +25,25 @@ I take great pride in crafting exceptional digital experiences and have had the 
 <!-- Contact Me -->
 ## 📫 Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Portfolio: [www.iietmoon.me](https://iietmoon.me)
+- LinkedIn: [@Othmane N.](https://www.linkedin.com/in/iietmoon/)
+- Email: [hello@iietmoon.me](mailto:otmannj56@gmail.com)
 
 <!-- Projects -->
 ## 🛠️ Featured Projects
 
 Here are some of the exciting projects I've had the pleasure of working on:
 
-1. [Project Name](https://github.com/your-username/project-name) - A brief description of the project.
-2. [Project Name](https://github.com/your-username/project-name) - A brief description of the project.
-3. [Project Name](https://github.com/your-username/project-name) - A brief description of the project.
+1. [Walt.id](https://github.com/walt-id) - Identity and wallet infrastructure for developers and businesses. 
+2. [Otha studio](https://otha.studio/) - A digital product development & design studio where inspiration and elevation meet.
+3. [B'Seha](https://bseha.ma/) - simplify the eating routine consumers with homemade meals nutritious and tasty, quickly accessible, at unbeatable prices.
 
 Feel free to explore these projects and get a glimpse of my work!
 
 <!-- Fun Facts -->
 ## 🌟 Fun Facts
 
-- 🎨 I'm a design enthusiast who believes that beautiful interfaces enhance user experiences.
+- 🎨 I'm a tech enthusiast who believes that beautiful interfaces and minimal logics enhance user experiences.
 - 🌍 I enjoy exploring different cultures and cuisines, and I'm always up for a culinary adventure.
 - 📚 Lifelong learner – I'm continuously expanding my knowledge and staying updated with the latest tech trends.
 

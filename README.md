@@ -1,5 +1,4 @@
 # Hello world! I'm Othmane! 👋
-<p>Welcome to my page! </br> I'm Othmane N., A Senior Fullstack developer from <img src="https://static.vecteezy.com/system/resources/previews/011/571/500/non_2x/circle-flag-of-morocco-free-png.png" width="13"/> <b>Casablanca, Morocco</b>.</p>
 <!-- Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Vue.js%20%7C%20TypeScript-blue" alt="Frontend" />
@@ -11,7 +10,7 @@
 <!-- About Me -->
 ## 🌟 About Me
 
-👋 I'm Othmane, a passionate Full-stack Developer and UI/UX Designer. With a diverse background, I've tackled all layers of code, from the database to UI, and embraced every step of the product life cycle - from concept and design to seamless deployment and ongoing support.
+👋 I'm Othmane N., A Senior Fullstack developer from <img src="https://static.vecteezy.com/system/resources/previews/011/571/500/non_2x/circle-flag-of-morocco-free-png.png" width="13"/> <b>Casablanca, Morocco</b>.
 
 I take great pride in crafting exceptional digital experiences and have had the opportunity to work on a variety of exciting projects throughout my career.
 
@@ -53,3 +52,4 @@ Feel free to explore these projects and get a glimpse of my work!
 <p align="center">
   Thank you for visiting my GitHub profile! Let's connect and create something amazing together. 🚀
 </p>
+

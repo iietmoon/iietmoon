@@ -13,9 +13,11 @@
 I'm Othmane N., A Senior Fullstack developer from <img src="https://static.vecteezy.com/system/resources/previews/011/571/500/non_2x/circle-flag-of-morocco-free-png.png" width="13"/> <b>Casablanca, Morocco</b>, I take great pride in crafting exceptional digital experiences and have had the opportunity to work on a variety of exciting projects throughout my career..
 
 ## 💡 Expertise:
-- **Programming Languages**: JavaScript (ES6+), PHP (Laravel, Core PHP), TypeScript, SQL, NoSQL
-- **Frontend Development**: React, Vue.js, Vuex, JavaScript, jQuery, AJAX, HTML & HTML5, CSS & SCSS, Bootstrap 3/4/5, Next.js, Nuxt.js, React Native
-- **Backend Development**: Node.js, Express.js, REST API, Laravel, Core PHP, MySQL
+- **Programming Languages**: JavaScript, TypeScript, Python, PHP, Rust(New learner),
+- **Frontend Development**: React, Vue, Vuex, JavaScript, TypeScript, Next.js, Nuxt.js, Gatsby.js 
+- **Backend Development**: Node.js, Express.js, REST API, Laravel, Core PHP,
+- **Mobile Development**: React Native, Android Development "Kotlin"
+- **Databases**: Mariadb, MySQL, MongoDB, PostgreSQL, Redis, Sqlite.
 - **Testing Tools**: Jest (for testing React applications), Vue Test Utils (for testing Vue.js applications), Mocha (for Node.js backend testing), Chai (for Node.js backend testing)
 - **DevOps and Microservices**: Docker, Docker Compose, Building microservices with Node.js, RabbitMQ
 

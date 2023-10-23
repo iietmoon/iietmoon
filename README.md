@@ -38,6 +38,7 @@ Here are some of the exciting projects I've had the pleasure of working on:
 1. [Walt.id](https://github.com/walt-id) - Identity and wallet infrastructure for developers and businesses. 
 2. [Otha studio](https://otha.studio/) - A digital product development & design studio where inspiration and elevation meet.
 3. [B'Seha](https://bseha.ma/) - simplify the eating routine consumers with homemade meals nutritious and tasty, quickly accessible, at unbeatable prices.
+4. [Nusql](https://nusql.dev) - Simplified SQL Query Builder for Node.js.
 
 Feel free to explore these projects and get a glimpse of my work!
 

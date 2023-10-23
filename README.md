@@ -15,7 +15,7 @@ I'm Othmane N., A Senior Fullstack developer from <img src="https://static.vecte
 ## 💡 Expertise:
 - **Programming Languages**: JavaScript, TypeScript, Python, PHP, Rust(New learner),
 - **Frontend Development**: React, Vue, Vuex, JavaScript, TypeScript, Next.js, Nuxt.js, Gatsby.js 
-- **Backend Development**: Node.js, Express.js, REST API, Laravel, Core PHP,
+- **Backend Development**: Node.js, Express.js, Koa.js, Laravel, Core PHP, Django(Hand-on experience)
 - **Mobile Development**: React Native, Android Development "Kotlin"
 - **Databases**: Mariadb, MySQL, MongoDB, PostgreSQL, Redis, Sqlite.
 - **Testing Tools**: Jest (for testing React applications), Vue Test Utils (for testing Vue.js applications), Mocha (for Node.js backend testing), Chai (for Node.js backend testing)

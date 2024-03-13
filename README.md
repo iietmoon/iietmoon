@@ -26,7 +26,7 @@ I'm Othmane N., A Senior Fullstack developer from <img src="https://static.vecte
 <!-- Contact Me -->
 ## 📫 Get in Touch
 
-- Portfolio: [www.iietmoon.me](https://iietmoon.me)
+- Portfolio: [www.otha.works](https://otha.works)
 - LinkedIn: [Othmane N.](https://www.linkedin.com/in/iietmoon/)
 - Email: [o.nejdi@otha.studio](mailto:otmannj56@gmail.com)
 
